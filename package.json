@@ -1,6 +1,6 @@
 {
   "name": "wd-runner-chrome",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Start new chromedriver instances without hassle",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
   ],
   "author": "Andreas Streichardt <andreas.streichardt@gmail.com>",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m0ppers/wd-runner-chrome"
+  },
   "dependencies": {
     "chromedriver": "~2.10.0-1",
     "q": "~1.0.1",
