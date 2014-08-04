@@ -1,6 +1,6 @@
 {
   "name": "wd-runner-chrome",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Start new chromedriver instances without hassle",
   "main": "index.js",
   "scripts": {
